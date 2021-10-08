@@ -2,8 +2,25 @@
 <hr>
 
 <p>Hi there, my name is <b>Jessé Benevides</b></p>
-<p>I'm a Full Stack developer student at <a href="https://www.betrybe.com/" target="_blank"> <b>@BeTrybe</b></a>
+<p>
+ I'm a Full Stack development student at
+ <a href="https://www.betrybe.com/" target="_blank">
+  <b>@BeTrybe</b>
+  <img src="https://avatars.githubusercontent.com/u/51808343?s=280&v=4" alt="Trybe Logo" width="20" height="20"/>
+ </a>
+</p>
 
+<p>
+ And Computer Science Student at
+ <a href="http://uesc.br/" target="_blank">
+  <b>UESC</b>
+  <img src="https://lh3.googleusercontent.com/proxy/aZbypn-VO1JCAPXEhmhajUOUszN1ZiXhSglv0EOtebyTOSZ0OGtb2DI2jqczAZ_KU6FLw3l4Xga5ob-IaQ" alt="UESC Logo" width="25"   height="25"/>
+ </a> 
+
+</p>
+
+
+ 
 <p><b>Languages and tools: </b>
 
 <p align="left">
