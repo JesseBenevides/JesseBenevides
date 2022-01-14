@@ -14,7 +14,7 @@
  And Computer Science Student at
  <a href="http://uesc.br/" target="_blank">
   <b>UESC</b>
-  <img src="http://www.uesc.br/proex/img/brasao%20uesc-01.png" alt="UESC Logo" width="25"   height="25"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Bras%C3%A3o_da_UESC.png" alt="UESC Logo" width="25"   height="25"/>
  </a> 
 
 </p>
