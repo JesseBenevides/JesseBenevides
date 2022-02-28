@@ -14,7 +14,7 @@
   I'm currently studying the JavaScript stack with React and Node
 </p>
 <p>
-  I'm also studying Computer Science Student at
+  I'm also half graduated in Computer Science at
  <a href="http://uesc.br/" target="_blank">
   <b>UESC</b>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Bras%C3%A3o_da_UESC.png" alt="UESC Logo" width="25"   height="25"/>
