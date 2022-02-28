@@ -3,7 +3,7 @@
 
 <p>Hi there, my name is <b>Jessé Benevides</b></p>
 <p>
- I'm a Full Stack development student at
+ I'm a Full Stack Web Development student at
  <a href="https://www.betrybe.com/" target="_blank">
   <b>@BeTrybe</b>
   <img src="https://avatars.githubusercontent.com/u/51808343?s=280&v=4" alt="Trybe Logo" width="20" height="20"/>
@@ -11,7 +11,10 @@
 </p>
 
 <p>
- And Computer Science Student at
+  I'm currently studying the JavaScript stack with React and Node
+</p>
+<p>
+  I'm also studying Computer Science Student at
  <a href="http://uesc.br/" target="_blank">
   <b>UESC</b>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Bras%C3%A3o_da_UESC.png" alt="UESC Logo" width="25"   height="25"/>
@@ -28,6 +31,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="40" height="40" />
 </div>
 <div>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40" />
@@ -36,6 +40,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express" width="60" height="40" />
 </div>
 <div>
  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseBenevides&layout=compact&theme=dark"/>
